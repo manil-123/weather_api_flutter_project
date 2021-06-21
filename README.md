@@ -1,6 +1,5 @@
 # weatherapi
-
-A new Flutter application.
+This project makes use of openweathermap api and http package to get the weather of your current location and also any city of your choice.
 
 ## Getting Started
 
